@@ -73,4 +73,4 @@ The result indicates a moderate positive correlation within this five-country sa
 
 ## Project Files
 
-- `Workbook/` – Excel workbook containing the exercises and
+- Excel workbook containing the exercises and results.
